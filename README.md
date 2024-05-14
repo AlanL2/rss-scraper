@@ -1,1 +1,1 @@
-currently an rss scraper 
+# GoTest
